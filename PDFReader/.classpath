@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="lib" path="C:/Users/Taha/Downloads/pdfbox-trunk.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Taha/.m2/repository/org/apache/pdfbox/pdfbox/2.0.0-SNAPSHOT/pdfbox-2.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Taha/.m2/repository/org/apache/pdfbox/fontbox/2.0.0-SNAPSHOT/fontbox-2.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Taha/.m2/repository/org/apache/pdfbox/preflight/2.0.0-SNAPSHOT/preflight-2.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Taha/.m2/repository/org/apache/pdfbox/xmpbox/2.0.0-RC3/xmpbox-2.0.0-RC3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Taha/.m2/repository/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Taha/.m2/repository/org/apache/commons/commons-compress/1.5/commons-compress-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Taha/.m2/repository/org/apache/pdfbox/debugger-app/2.0.0-SNAPSHOT/debugger-app-2.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Taha/Downloads/commons-io-2.4-bin/commons-io-2.4/commons-io-2.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
